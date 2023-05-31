@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guiaugustobs
-- 👀 I’m interested in ... dev mobile 
-- 🌱 I’m currently learning ... flutter/dart/firebase/API's
+- 👀 I’m interested in ... data science jr
+- 🌱 I’m currently learning ... SQL/Python/Power BI/R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 - IG: <a href="https://www.instagram.com/guiaugustocfl/" target="_blank">@guiaugustocfl</a>
